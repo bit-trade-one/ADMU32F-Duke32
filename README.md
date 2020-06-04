@@ -11,6 +11,14 @@
 
 無線でつなげてヨシ、機能を拡張してヨシ、プログラミングしてヨシの多機能ボードが登場です。                                                                                
 
+## [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
+
+## [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
+
+## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+
+## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+
 ### 製品用途
 ・既存のロボットや工作キットの拡張
 
