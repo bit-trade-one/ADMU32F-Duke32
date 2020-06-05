@@ -13,11 +13,15 @@
 
 ## [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
 
-## [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
+## [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_shield.html#Duke32AIO)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [サンプルコードはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/examples/ESP32_WebserverSample_3)  
+
+## [ファームウェアはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/DefaultFW)
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+
+## [回路図](https://github.com/tomorrow56/Duke32_AIO/blob/master/ESP32_camrobo_v04_Schema.pdf)
 
 ### 製品用途
 ・既存のロボットや工作キットの拡張
