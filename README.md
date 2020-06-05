@@ -19,7 +19,7 @@
 
 ## [ファームウェアはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/DefaultFW)
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/ADMU32F-Duke32/blob/master/FAQ.md)
 
 ## [回路図](https://github.com/tomorrow56/Duke32_AIO/blob/master/ESP32_camrobo_v04_Schema.pdf)
 
