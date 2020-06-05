@@ -11,6 +11,8 @@
 
 無線でつなげてヨシ、機能を拡張してヨシ、プログラミングしてヨシの多機能ボードが登場です。                                                                                
 
+## [出荷時ファーム　操作方法はこちら](https://github.com/bit-trade-one/ADMU32F-Duke32/tree/master/Manual)
+
 ## [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
 
 ## [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_shield.html#Duke32AIO)  
