@@ -15,7 +15,7 @@
 
 ## [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
 
-## [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_shield.html#Duke32AIO)  
+## [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_app3.html)  
 
 ## [サンプルコードはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/examples/ESP32_WebserverSample_3)  
 
