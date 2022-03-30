@@ -9,21 +9,23 @@
 
 無料のスクラッチベース プログラミングアプリ「つくるっち」やAruduinoIDEでのプログラミングが可能。
 
-無線でつなげてヨシ、機能を拡張してヨシ、プログラミングしてヨシの多機能ボードが登場です。                                                                                
+無線でつなげてヨシ、機能を拡張してヨシ、プログラミングしてヨシの多機能ボードが登場です。                     
 
-## [出荷時ファーム　操作方法はこちら](https://github.com/bit-trade-one/ADMU32F-Duke32/tree/master/Manual)
+## [BTO製品HP](https://bit-trade-one.co.jp/admu32f/)
 
-## [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
+### [出荷時ファーム　操作方法はこちら](https://github.com/bit-trade-one/ADMU32F-Duke32/tree/master/Manual)
 
-## [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_app3.html)  
+### [アプリケーションソフト「つくるっち」のページはこちら](http://sohta02.web.fc2.com/familyday_app.html)  
 
-## [サンプルコードはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/examples/ESP32_WebserverSample_3)  
+### [「つくるっち」・スマフォからのDuke32AIOの操作方法はこちら](http://sohta02.web.fc2.com/familyday_app3.html)  
 
-## [ファームウェアはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/DefaultFW)
+### [サンプルコードはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/examples/ESP32_WebserverSample_3)  
 
-## [Q&A](https://github.com/bit-trade-one/ADMU32F-Duke32/blob/master/FAQ.md)
+### [ファームウェアはこちら](https://github.com/tomorrow56/Duke32_AIO/tree/master/DefaultFW)
 
-## [回路図](https://github.com/tomorrow56/Duke32_AIO/blob/master/ESP32_camrobo_v04_Schema.pdf)
+### [Q&A](https://github.com/bit-trade-one/ADMU32F-Duke32/blob/master/FAQ.md)
+
+### [回路図](https://github.com/tomorrow56/Duke32_AIO/blob/master/ESP32_camrobo_v04_Schema.pdf)
 
 ### 製品用途
 ・既存のロボットや工作キットの拡張
